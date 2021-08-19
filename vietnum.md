@@ -1,5 +1,5 @@
 # Chào mừng đến với Asabu！！
-![hazeru](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/fig/hazeru.jpg)
+![hazeru](fig/hazeru.jpg)
 
 [English](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/English.html)　Select your language
 

@@ -1,6 +1,6 @@
 # 厚沢部에 오신 것을 환영합니다！！
 
-![hazeru](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/fig/hazeru.jpg)
+![hazeru](fig/hazeru.jpg)
 
 
 
