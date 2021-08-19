@@ -4,19 +4,19 @@
 
 
 
-[English](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/English.html)　Select your language
+[English](English.html)　Select your language
 
-[中国語](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/Chinese.html)　选择你的语言
+[中国語](Chinese.html)　选择你的语言
 
-[한국](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/Korea.html)　　언어 선택
+[한국](Korea.html)　　언어 선택
 
-[Deutsch](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/German.html)　Wähle deine Sprache
+[Deutsch](German.html)　Wähle deine Sprache
 
-[Français](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/France.html)　choisissez votre langue
+[Français](France.html)　choisissez votre langue
 
-[Русский](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/Russ.html)　Выберите свой язык
+[Русский](Russ.html)　Выберите свой язык
 
-[Tiếng Việt](/home/ishii/ドキュメント/01アーカイブ/02プレゼンテーション資料/210830政策コンペ発表/Assabu_HTML_sample/vietnum.html)　chọn ngôn ngữ của bạn
+[Tiếng Việt](vietnum.html)　chọn ngôn ngữ của bạn
 
 ------
 
